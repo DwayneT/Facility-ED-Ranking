@@ -21,5 +21,9 @@ The project involves several complex tasks, including:
 6. **Data Analysis and Interpretation:** Collected data is analyzed using statistical methods and data visualization techniques to identify trends, patterns, and disparities among emergency departments.
 7. **Ranking Methodology:** A transparent and evidence-based ranking methodology is developed, considering various performance metrics and factors relevant to emergency care quality and accessibility.
 
+## Tools Used
+- **Python Libraries:** This project utilizes Python programming language along with essential libraries such as NumPy, Matplotlib, and Pandas for data manipulation, analysis, and visualization.
+- **API Access:** The project accesses data from the [Kenya Master Health Facility List (KMHFL) API](https://kmhfl.health.go.ke/#/home) to gather information on emergency departments in Kenya. This involves utilizing Python libraries such as `requests` to interact with the API endpoints and retrieve relevant data.
+
 ## Conclusion
-By undertaking these complex tasks, stakeholders can gain a comprehensive understanding of emergency department performance in Kenya. This project aims to contribute to efforts aimed at improving emergency care quality and access nationwide.
+By undertaking these complex tasks and utilizing advanced data analysis tools, stakeholders can gain a comprehensive understanding of emergency department performance in Kenya. This project aims to contribute to efforts aimed at improving emergency care quality and access nationwide.
